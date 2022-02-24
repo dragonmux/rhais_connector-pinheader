@@ -67,7 +67,7 @@
   (pad "8" smd roundrect (at 2.2 1.27) (size 2.4 0.74) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0206d44e-a0e4-4a0f-a22d-6f66c088430e))
   (pad "9" smd roundrect (at -2.2 2.54) (size 2.4 0.74) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 08244984-7cae-4c66-9d32-6bd8df7b4f4f))
   (pad "10" smd roundrect (at 2.2 2.54) (size 2.4 0.74) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b5c184a8-9b1b-4160-8177-1c0a3fcd53d6))
-  (model "${KISYS3DMOD}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical_SMD.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical_SMD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
